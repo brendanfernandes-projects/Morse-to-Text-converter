@@ -1,2 +1,2 @@
 # Morse-to-Text-converter
-Convert text to morse code or morse code to text 
+Python script to convert text to morse code or morse code to text 
